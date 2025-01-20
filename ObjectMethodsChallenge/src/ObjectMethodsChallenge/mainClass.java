@@ -8,7 +8,7 @@ public class mainClass {
 		
 		Scanner scan = new Scanner(System.in);
 		
-		/*String inpFname, inpSname, inpYear, inpCourse, inpSection;
+		String inpFname, inpSname, inpYear, inpCourse, inpSection;
 		float inpMG, inpFG, ave;
 		
 		System.out.println("Enter First Name of the student: ");
@@ -36,7 +36,7 @@ public class mainClass {
 		
 		s1.introduceSelf();
 		
-		System.out.println("Remarks: " + s1.evaluateGrade(inpMG, inpFG));*/
+		System.out.println("Remarks: " + s1.evaluateGrade(inpMG, inpFG));
 		
 		User u = new User(12,"kingjames", "Lebron", "James"); 
 		
