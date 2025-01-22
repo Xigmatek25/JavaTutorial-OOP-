@@ -6,7 +6,7 @@ public class mainClass {
 
 	public static void main(String[] args) {
 		
-		Scanner scan = new Scanner(System.in);
+		/*Scanner scan = new Scanner(System.in);
 		
 		String inpFname, inpSname, inpYear, inpCourse, inpSection;
 		float inpMG, inpFG, ave;
@@ -31,7 +31,7 @@ public class mainClass {
 		
 		System.out.println("Enter final grade of the student: ");
 		inpFG = scan.nextFloat();
-		
+		 
 		Student s1 = new Student(inpFname, inpSname, inpYear, inpCourse, inpSection, inpMG, inpFG);
 		
 		s1.introduceSelf();
@@ -40,7 +40,7 @@ public class mainClass {
 		
 		User u = new User(12,"kingjames", "Lebron", "James"); 
 		
-		u.setUserID(scan.nextInt());
+		u.setUserID(scan.nextInt()); */
 		
 		
 
