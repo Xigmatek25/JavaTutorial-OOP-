@@ -1,11 +1,11 @@
 package InheritanceTry;
 
-public class Transformer {
+public  class Transformer {
 	
 	String name, botForm;
 	int speed, strength, IQ;
 	
-	Transformer (String name, String botForm, int speed, int strength, int IQ){
+	public Transformer (String name, String botForm, int speed, int strength, int IQ){
 		
 		this.name = name;
 		this.botForm = botForm;
